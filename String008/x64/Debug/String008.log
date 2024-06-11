@@ -1,0 +1,7 @@
+﻿  here.c
+C:\Users\35316\Desktop\.vs\String008\String008\here.c(129,13): warning C4047: “函数”:“char”与“char *”的间接级别不同
+C:\Users\35316\Desktop\.vs\String008\String008\here.c(129,13): warning C4024: “getch”: 形参和实参 1 的类型不同
+C:\Users\35316\Desktop\.vs\String008\String008\here.c(142,14): warning C4047: “函数”:“char”与“char *”的间接级别不同
+C:\Users\35316\Desktop\.vs\String008\String008\here.c(142,14): warning C4024: “getch”: 形参和实参 1 的类型不同
+C:\Users\35316\Desktop\.vs\String008\String008\here.c(205,17): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  String008.vcxproj -> C:\Users\35316\Desktop\.vs\String008\x64\Debug\String008.exe
